@@ -1,0 +1,12 @@
+{
+  "name": "teamcity-node-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js project for TeamCity demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "your-name",
+  "license": "MIT"
+}
